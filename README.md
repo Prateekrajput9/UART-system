@@ -43,7 +43,7 @@ UART is used to send data one bit at a time over a single wire (TX), and receive
 
 ## 📷 Waveform Example
 
-*(You can add a screenshot from your simulation here)*
+
 
 ---
 
